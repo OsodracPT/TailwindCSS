@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tailwindcss": "^1.0.5"
+    "tailwindcss": "^1.9.6"
   }
 }
